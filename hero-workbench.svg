@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-label="ZPlayer desktop and mobile workbench preview">
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c2831"/>
+      <stop offset="1" stop-color="#131c23"/>
+    </linearGradient>
+    <linearGradient id="backdrop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbfdfc"/>
+      <stop offset="1" stop-color="#f2f7f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="620" fill="url(#backdrop)"/>
+  <g opacity=".5">
+    <circle cx="850" cy="70" r="130" fill="#0d9488" opacity=".06"/>
+    <circle cx="90" cy="560" r="150" fill="#0d9488" opacity=".05"/>
+  </g>
+  <g>
+    <rect x="66" y="54" width="634" height="440" rx="10" fill="url(#surface)" stroke="#d6e0e4" stroke-width="1.5"/>
+    <rect x="66" y="54" width="634" height="38" rx="10" fill="#24333d"/>
+    <circle cx="92" cy="73" r="5" fill="#f87171"/>
+    <circle cx="110" cy="73" r="5" fill="#fbbf24"/>
+    <circle cx="128" cy="73" r="5" fill="#34d399"/>
+    <rect x="154" y="63" width="270" height="20" rx="6" fill="#31434f"/>
+    <rect x="90" y="116" width="168" height="22" rx="5" fill="#e9f0f4"/>
+    <rect x="90" y="156" width="92" height="12" rx="6" fill="#7d939f"/>
+    <rect x="90" y="184" width="134" height="12" rx="6" fill="#576e7b"/>
+    <g>
+      <rect x="90" y="224" width="142" height="88" rx="7" fill="#283845" stroke="#3b515f"/>
+      <path d="M143 249.5 172 268l-29 18.5z" fill="#2dd4bf"/>
+      <rect x="104" y="300" width="78" height="7" rx="3.5" fill="#6b8390"/>
+    </g>
+    <g>
+      <rect x="248" y="224" width="142" height="88" rx="7" fill="#283845" stroke="#3b515f"/>
+      <path d="M298 251h42v34h-42z" fill="#38bdf8" opacity=".85"/>
+      <rect x="262" y="300" width="64" height="7" rx="3.5" fill="#6b8390"/>
+    </g>
+    <g>
+      <rect x="406" y="224" width="142" height="88" rx="7" fill="#283845" stroke="#3b515f"/>
+      <path d="M446 258h18v-18h12v18h18v12h-18v18h-12v-18h-18z" fill="#fb7185"/>
+      <rect x="420" y="300" width="70" height="7" rx="3.5" fill="#6b8390"/>
+    </g>
+    <rect x="90" y="344" width="586" height="112" rx="8" fill="#223039" stroke="#3b515f"/>
+    <rect x="112" y="368" width="258" height="10" rx="5" fill="#d7e2e9"/>
+    <rect x="112" y="392" width="428" height="9" rx="4.5" fill="#68808d"/>
+    <rect x="112" y="414" width="342" height="9" rx="4.5" fill="#68808d"/>
+    <rect x="568" y="368" width="84" height="60" rx="6" fill="#0d9488"/>
+    <path d="M594 386.5 625 398l-31 11.5z" fill="#ffffff"/>
+  </g>
+  <g>
+    <rect x="740" y="92" width="158" height="326" rx="24" fill="#182229" stroke="#d6e0e4" stroke-width="1.5"/>
+    <rect x="752" y="112" width="134" height="286" rx="16" fill="#22313b"/>
+    <rect x="768" y="128" width="102" height="12" rx="6" fill="#e9f0f4"/>
+    <rect x="768" y="154" width="70" height="8" rx="4" fill="#7d939f"/>
+    <rect x="768" y="178" width="102" height="64" rx="8" fill="#2a3d49"/>
+    <path d="M806 196.5 831 210l-25 13.5z" fill="#2dd4bf"/>
+    <rect x="768" y="258" width="102" height="10" rx="5" fill="#d7e2e9"/>
+    <rect x="768" y="282" width="78" height="9" rx="4.5" fill="#68808d"/>
+    <rect x="768" y="306" width="102" height="62" rx="8" fill="#273845"/>
+    <rect x="782" y="322" width="52" height="9" rx="4.5" fill="#93a8b3"/>
+    <rect x="782" y="344" width="34" height="8" rx="4" fill="#93a8b3"/>
+  </g>
+  <g fill="#64748b" font-family="Inter, sans-serif" font-size="16" letter-spacing="2">
+    <text x="66" y="540">VIDEO</text>
+    <text x="180" y="540">MUSIC</text>
+    <text x="292" y="540">NOVEL</text>
+    <text x="404" y="540">COMIC</text>
+    <text x="520" y="540">LIVE</text>
+  </g>
+  <g stroke-linecap="round" stroke-width="5">
+    <path d="M66 568h102" stroke="#0d9488"/>
+    <path d="M180 568h88" stroke="#0284c7"/>
+    <path d="M292 568h88" stroke="#7c3aed"/>
+    <path d="M404 568h94" stroke="#16a34a"/>
+    <path d="M520 568h72" stroke="#e11d48"/>
+  </g>
+</svg>
