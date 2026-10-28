@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b1115"/>
+  <g opacity=".2">
+    <path d="M0 105h1200M0 210h1200M0 315h1200M0 420h1200M0 525h1200" stroke="#283944"/>
+    <path d="M150 0v630M300 0v630M450 0v630M600 0v630M750 0v630M900 0v630M1050 0v630" stroke="#283944"/>
+  </g>
+  <path d="M110 180h44v270h-44z" fill="#48b8c8"/>
+  <path d="M214 180h252v44H214zM214 276h180v44H214zM214 372h342v44H214z" fill="#e9f0f4"/>
+  <g transform="translate(735 148)">
+    <rect width="330" height="334" rx="18" fill="#152027" stroke="#3d505b"/>
+    <path d="M136 133.5 216 180l-80 46.5z" fill="#f2b544"/>
+    <rect x="58" y="260" width="214" height="15" rx="7.5" fill="#617886"/>
+  </g>
+  <g fill="#e9f0f4" font-family="Inter, PingFang SC, sans-serif">
+    <text x="110" y="118" font-size="43" font-weight="700">ZPlayer</text>
+    <text x="110" y="562" font-size="27">Cross-platform media workbench</text>
+  </g>
+</svg>
